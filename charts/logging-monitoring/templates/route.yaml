@@ -4,7 +4,7 @@ metadata:
   name: kibana
   namespace: openshift-logging
 spec:
-  host: logging.apps.c9.numerique-interieur.com
+  host: logging.apps.c7.numerique-interieur.com
   to:
       kind: Service
       name: kibana
